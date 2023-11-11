@@ -1,0 +1,1 @@
+[[it-is-not-the-spoon-that-bends]]; it is you. The categories of normal experience are dictated by our social being - the temptation to write sequential notes is a byproduct of the very specific historical circumstance that schools work in the way they do. There is nothing eternal about it.
