@@ -1,1 +1,1 @@
-A terminal node is, unfortunately, a category. But one that I think might be useful. The idea is that in certain contexts it will make sense to visit all the outgoing nodes from a terminal node. See the outgoing links for examples.
+A terminal node is a category that I think might be useful. The idea is that in certain contexts it will make sense to visit all the outgoing nodes from a terminal node. See the outgoing links for examples.
