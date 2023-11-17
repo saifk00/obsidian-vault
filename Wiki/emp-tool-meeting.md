@@ -1,0 +1,4 @@
+- Roy is implementing 'one hot' garbling
+- Half gates are the state of the art for garbling; requires only 2 ciphertexts for an AND
+	- https://eprint.iacr.org/2014/756.pdf
+- evaluator: `halfgate_eva.h`

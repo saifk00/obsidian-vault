@@ -1,0 +1,1 @@
+We take many things for granted and assume that they are unchanging. But I think it is very important to constantly re-evaluate even our most base assumptions about the world.

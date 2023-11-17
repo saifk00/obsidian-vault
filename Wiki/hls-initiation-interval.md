@@ -1,0 +1,1 @@
+The number of cycles between the start of one iteration of a loop to the next. Also called II. Minimizing II improves the throughput of a kernel.

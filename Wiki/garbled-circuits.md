@@ -52,7 +52,6 @@ Note that the only difference is that the last two output entries have been swap
 
 ## Optimizations
 - [[point-and-permute-garbled-circuit]] allows Evan (the evaluator) to avoid having to try decrypting all the output ciphertexts
-- 
 ## Questions
 
 **But doesn't Bob need labels too?** Yes - he uses [[oblivious-transfer]] to get labels for *his* input so that he can then pass them through the circuit

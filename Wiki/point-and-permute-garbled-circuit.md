@@ -25,3 +25,6 @@ def evaluate_gate(gate, L_G):
 	ind = 2*pe + pg
 	decrypt(gate[ind], L_G[:-1]||L_E[:-1])
 ```
+Basically, the permute bits tell Evan where to find the correct ciphertext. The bit $p$ determines which of the two slots the label $W_i$ goes into; but since it is masked with a random value $r$, Evan cannot determine which of the two possible values of $W_i$ the entry he decrypted corresponds to.
+
+I think this is a **core principle of [[garbled-circuits]]** - its sort of like winning at tic-tac-toe: you can put the opponent in a position where either selection results in a win for you. Similarly, if there are two equally likely possibilities for a certain situation, Evan cannot recover which one caused it.

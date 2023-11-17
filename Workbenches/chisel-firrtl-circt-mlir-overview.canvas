@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"4a7d53abac7b62da","type":"file","file":"Resources/Pasted image 20231116194750.png","x":-36,"y":-33,"width":716,"height":867},
+		{"id":"5d07765656a4a271","type":"file","file":"Wiki/FIRRTL.md","x":720,"y":-33,"width":400,"height":400},
+		{"id":"d82c0fd3c3adc466","type":"file","file":"Wiki/CIRCT.md","x":720,"y":460,"width":400,"height":400},
+		{"id":"c363fc6ec64cb43c","type":"file","file":"Wiki/mlir.md","x":-480,"y":-33,"width":400,"height":867},
+		{"id":"b05a37a4a1de3287","type":"file","file":"Wiki/chisel.md","x":122,"y":-500,"width":400,"height":400},
+		{"id":"9c274fed699afdb4","x":-330,"y":-329,"width":250,"height":58,"color":"1","type":"text","text":"An overview of how Chisel, FIRRTL, and CIRCT interact"}
+	],
+	"edges":[
+		{"id":"d74caf6c508b7211","fromNode":"b05a37a4a1de3287","fromSide":"right","toNode":"5d07765656a4a271","toSide":"top","label":"produces"},
+		{"id":"1d253a99250cce91","fromNode":"5d07765656a4a271","fromSide":"bottom","toNode":"d82c0fd3c3adc466","toSide":"top","label":"is consumed by"}
+	]
+}

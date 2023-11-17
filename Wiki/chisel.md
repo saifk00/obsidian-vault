@@ -1,0 +1,1 @@
+Chisel is a Scala-based tool that compiles classes to [[FIRRTL]], usually output in a `.fir` file. This `.fir` file can then be passed to [[CIRCT]]'s FIRRTL compiler and parsed into the `circt.firrtl` dialect, then lowered to [[system-verilog]].

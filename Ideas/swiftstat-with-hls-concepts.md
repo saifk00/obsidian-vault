@@ -1,0 +1,2 @@
+Some ideas to improve [[swiftstat]] based on what I've learned about [[high-level-synthesis]].
+- We could implement ready/valid signals for statically scheduled clusters of nodes based on the theory of [[hls-elastic-circuits]]
