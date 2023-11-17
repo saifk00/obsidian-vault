@@ -4,11 +4,11 @@
 		{"id":"d82c0fd3c3adc466","type":"file","file":"Wiki/CIRCT.md","x":720,"y":460,"width":400,"height":400},
 		{"id":"c363fc6ec64cb43c","type":"file","file":"Wiki/MLIR.md","x":-480,"y":-33,"width":400,"height":867},
 		{"id":"b05a37a4a1de3287","type":"file","file":"Wiki/chisel.md","x":122,"y":-500,"width":400,"height":400},
-		{"id":"9c274fed699afdb4","type":"text","text":"An overview of how Chisel, FIRRTL, and CIRCT interact","x":-330,"y":-329,"width":250,"height":58,"color":"1"},
+		{"id":"9c274fed699afdb4","type":"text","text":"An overview of how Chisel, FIRRTL, and CIRCT interact","x":-330,"y":-329,"width":250,"height":189,"color":"1"},
 		{"id":"8f19b14df9ad8482","type":"file","file":"Resources/Pasted image 20231116195714.png","x":-40,"y":-63,"width":706,"height":928},
-		{"id":"fc9eeded20c4dfa3","type":"text","text":"Note that Polygeist is just one possible frontend. For more detail on Polygeist as a frontend see [[borup-2022]]","x":-40,"y":0,"width":200,"height":167,"color":"4"},
+		{"id":"fc9eeded20c4dfa3","type":"text","text":"Note that Polygeist is just one possible frontend. For more detail on Polygeist as a frontend see [[borup-2022]]","x":-40,"y":0,"width":180,"height":280,"color":"4"},
 		{"id":"2f71cde2bc8e9d48","type":"text","text":"Alternative view from [[borup-2022]]","x":-366,"y":949,"width":326,"height":60,"color":"1"},
-		{"id":"fa5e65d87a953da3","type":"file","file":"Pasted image 20231116200137.png","x":-366,"y":1040,"width":906,"height":836},
+		{"id":"fa5e65d87a953da3","type":"file","file":"Resources/Pasted image 20231116200137.png","x":-366,"y":1040,"width":906,"height":836},
 		{"id":"6761f9908528080f","type":"text","text":"Note that this is technically missing the `FIRRTLParser` step that takes the FIRRTL from Chisel and converts it to the CIRCT FIRRTL dialect - which are two distinct things.","x":420,"y":1300,"width":620,"height":118,"color":"2"}
 	],
 	"edges":[
