@@ -1,3 +1,5 @@
+#compilers 
+
 A project to extend [[llvm]] for the realm of domain specific accelerators (GPUs included). Domain-specific programming models typically define their own IR/ASTs which are optimized and then lowered to LLVM. MLIR allows these models to share infrastructure by defining `dialects`, sets of operations along with validators for them. It also adds *structure* to the IR, something lost in LLVM IR which is vital for many domain accelerators.
 
 # Textual Format

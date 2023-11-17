@@ -1,1 +1,5 @@
 Chisel is a Scala-based tool that compiles classes to [[FIRRTL]], usually output in a `.fir` file. This `.fir` file can then be passed to [[CIRCT]]'s FIRRTL compiler and parsed into the `circt.firrtl` dialect, then lowered to [[system-verilog]].
+
+There are two ways to get from Chisel code to RTL. The old way is often referred to as the 'Native FIRRTL compiler,' or the 'scala FIRRTL compiler'. This is vestigal in the `chisel.firrtl` namespace.
+
+You will often hear that the CIRCT FIRRTL compiler is a 'drop-in replacement' for the native FIRRTL compiler. Essentially, FIRRTL's main industry driver is [[si-five]], who is also behind the CIRCT FIRRTL compiler which is going to replace the native Chisel compiler. That is, in the future Chisel will only generate `.fir` and hand the rest off to CIRCT.
