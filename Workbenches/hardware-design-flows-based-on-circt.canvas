@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"49b3f9e63944949f","type":"file","file":"Wiki/CIRCT.md","x":-720,"y":400,"width":400,"height":400},
+		{"id":"b33b7a2d4f09492e","type":"file","file":"Wiki/FIRRTL.md","x":-280,"y":160,"width":400,"height":400},
+		{"id":"0a1b8f5aca2fbb34","type":"file","file":"Wiki/CIRCT-hls-dataflow-lowering.md","x":-1160,"y":160,"width":400,"height":400},
+		{"id":"ad780bc685f1dfa9","type":"file","file":"Wiki/dynamically-scheduled-high-level-synthesis.md","x":-1360,"y":-366,"width":400,"height":400},
+		{"id":"0daf7241985ffebc","type":"file","file":"Wiki/chisel.md","x":-80,"y":-366,"width":400,"height":400},
+		{"id":"776d11806694b0e9","type":"text","text":"For hardware designers, who want to specifically control hardware units, a **hardware construction language** is ideal","x":-80,"y":-580,"width":400,"height":100,"color":"4"},
+		{"id":"2dc28375fc73ba8c","type":"file","file":"Wiki/MLIR.md","x":-720,"y":920,"width":400,"height":400},
+		{"id":"d7c77f435e6c95d8","type":"text","text":"Once CIRCT has constructed the MLIR IR, some analyses/lowerings can take place","x":-850,"y":1440,"width":660,"height":60,"color":"4"},
+		{"id":"b9d5ed6247876662","type":"file","file":"Wiki/CIRCT-static-scheduling.md","x":-720,"y":1640,"width":400,"height":400},
+		{"id":"113006d90b9182de","type":"text","text":"This is the flow described by [[borup-2022]]","x":-925,"y":-219,"width":205,"height":106,"color":"2"},
+		{"id":"cf43540b9aed4e67","type":"text","text":"The **high level synthesis flow** is for software developers who wish to accelerate a program on hardware","x":-1840,"y":-600,"width":400,"height":100,"color":"4"},
+		{"id":"e6380e24d016b945","x":-1840,"y":-366,"width":400,"height":400,"type":"file","file":"Wiki/high-level-synthesis.md"}
+	],
+	"edges":[
+		{"id":"cc7386265a298ee7","fromNode":"b33b7a2d4f09492e","fromSide":"bottom","toNode":"49b3f9e63944949f","toSide":"right"},
+		{"id":"5acf46fc57adbc72","fromNode":"d7c77f435e6c95d8","fromSide":"bottom","toNode":"b9d5ed6247876662","toSide":"top"},
+		{"id":"67bdeb9036f43d01","fromNode":"2dc28375fc73ba8c","fromSide":"bottom","toNode":"d7c77f435e6c95d8","toSide":"top"},
+		{"id":"982845aa3aff064b","fromNode":"0daf7241985ffebc","fromSide":"bottom","toNode":"b33b7a2d4f09492e","toSide":"top"},
+		{"id":"e070be08f2800439","fromNode":"0a1b8f5aca2fbb34","fromSide":"bottom","toNode":"49b3f9e63944949f","toSide":"left"},
+		{"id":"07c0e94b003cae8c","fromNode":"49b3f9e63944949f","fromSide":"bottom","toNode":"2dc28375fc73ba8c","toSide":"top"},
+		{"id":"94728beebb2b7396","fromNode":"ad780bc685f1dfa9","fromSide":"bottom","toNode":"0a1b8f5aca2fbb34","toSide":"top"},
+		{"id":"7eb8a7473a0b0962","fromNode":"e6380e24d016b945","fromSide":"right","toNode":"ad780bc685f1dfa9","toSide":"left"}
+	]
+}
