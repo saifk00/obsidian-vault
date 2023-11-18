@@ -1,0 +1,1 @@
+Stochastic, factual, or aleatory probability is one type of probability. This is about outcomes of situations that are truly unpredictable - dice rolling, weather, etc. where some random process is involved.

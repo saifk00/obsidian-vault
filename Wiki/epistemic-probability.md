@@ -1,0 +1,1 @@
+Epistemic (or 'logical') probability is one type of probability. In effect - something really happened, but our knowledge about it (and related propositions) is fundamentally uncertain. A random process need not be involved.

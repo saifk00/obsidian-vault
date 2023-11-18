@@ -1,4 +1,4 @@
-This idea came from [[Franklin-2015]] in the context of probability theory. The idea is that many rigorous scientific/mathematical theories are in some sense a 'coming-to-consciousness' of certain unconscious facets of our being.
+This idea came from [[franklin-2015]] in the context of probability theory. The idea is that many rigorous scientific/mathematical theories are in some sense a 'coming-to-consciousness' of certain unconscious facets of our being.
 
 The example given is of visual perspective. Humans naturally see in perspective, but it took a long time for the principles of perspective could be precipitated and applied to the visual arts.
 
