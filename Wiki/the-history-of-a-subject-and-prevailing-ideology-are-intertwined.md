@@ -1,0 +1,5 @@
+#philosophy 
+As Marx said:
+> The materialist doctrine concerning the changing of circumstances and upbringing forgets that circumstances are changed by men and that **it is essential to educate the educator himself**. This doctrine must, therefore, divide society into two parts, one of which is superior to society.
+
+My interpretation of this is that [[bourgeois-materialism]] (i.e. in [[Feuerbach]]) is still [[philosophical-idealism]] in the sense that it perceives ideas as superior to society. Take some subject X; bourgeois materialism will examine X as an abstract concept, weighing its factors in a fantastic realm, ignoring its *real history*. The question we *should* be asking is: what are the real historical circumstances that led to Y being the way we predominantly view subject X as a society?

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"65ca25da774c9377","x":-1400,"y":220,"width":400,"height":620,"type":"file","file":"Wiki/fairplay-a-secure-two-party-computation-system.md"},
+		{"id":"8d7e4c77de189028","x":-420,"y":677,"width":540,"height":50,"color":"4","type":"text","text":"optimizations"},
+		{"id":"7fe4cf053af4ab08","x":160,"y":220,"width":400,"height":400,"type":"file","file":"Wiki/oblivious-transfer.md"},
+		{"id":"159a37a9aa2146e1","type":"file","file":"Wiki/secure-multi-party-computation.md","x":-1400,"y":-280,"width":840,"height":360},
+		{"id":"5e4641e5c9748304","x":-960,"y":220,"width":400,"height":620,"type":"file","file":"Wiki/multi-party-computation-compiler-variable-instruction-set-architecture.md"},
+		{"id":"84437dc5eacdd6bd","type":"file","file":"Wiki/garbled-circuits.md","x":-280,"y":220,"width":400,"height":400},
+		{"id":"eeb58ccf188e90f6","type":"file","file":"Wiki/point-and-permute-garbled-circuit.md","x":-480,"y":840,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"f1662d330f34e78b","fromNode":"84437dc5eacdd6bd","fromSide":"bottom","toNode":"eeb58ccf188e90f6","toSide":"top"}
+	]
+}

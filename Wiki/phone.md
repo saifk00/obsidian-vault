@@ -1,0 +1,2 @@
+#linguistics 
+In linguistics, a phone is a *distinct* speech sound. For example, the aspirated p (`[p^h]`) and voices p (`[p]`) are distinct phones. Note however, that they are not distinct [[phoneme]]s since swapping `[p]` for `[p^h]` *never* changes the word in English.
