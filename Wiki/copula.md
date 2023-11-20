@@ -1,0 +1,4 @@
+#linguistics 
+In linguistics, the copula is a word or phrase which links a subject with the 'subject complement' (i.e. the predicate + copula structure). Usually in a language there is one primary copula.
+
+In English, for example, its the verb 'to be': "the book **is** right on the table" where 'the book' is the subject, and 'is on the table' is the subject complement. Think about what would happen if we *didn't* have the copula: "the book right on the table" just sounds like a subject - the sentence has no meaning except as an answer to a question. The copula allows the sentence to express something about the subject (rename or describe it) through the subject complement.

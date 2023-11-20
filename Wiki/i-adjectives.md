@@ -9,7 +9,7 @@ According to [[kaiser-2013]] (Chapter 6), i-adjectives are "adjectives proper". 
 - 安い
 - 可愛い
 - 高い
-## Conjugations
+## [[Inflection|Declension]]
 ### Expressing Truth
 In the stem form, the i-adjective is *true*. To *negate* it, add the `~くない` ending.
 ### Expressing Tense
