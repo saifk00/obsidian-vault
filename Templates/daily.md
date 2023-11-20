@@ -1,6 +1,8 @@
-<%* const DATE = moment(tp.file.title, "YYYY-MM-DD"); %>[[<% DATE.subtract(1, 'D').format('YYYY-MM-DD') %>|Yesterday]] [[<% DATE.add(1, 'D').format('YYYY-MM-DD') %>|Tomorrow]]
+<%* const DATE = moment(tp.file.title); %>[[<% DATE.clone().subtract(1, 'd').format('YYYY-MM-DD') %>|Yesterday]] [[<% DATE.clone().add(1, 'd').format('YYYY-MM-DD') %>|Tomorrow]]
 # Notes
 <% tp.file.cursor(1) %>
+# Journal
+
 # Notes created today
 ```dataview
 List FROM ""
