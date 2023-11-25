@@ -1,0 +1,1 @@
+In [[opencl]] you can use the C99 `restrict` keyword for kernel arguments. This declares that, during the [[lifetime]] of the pointer, no other pointer will be used to access its referent object. This prevents [[pointer-aliasing]] and allows the compiler to perform certain optimizations that are otherwise not possible.

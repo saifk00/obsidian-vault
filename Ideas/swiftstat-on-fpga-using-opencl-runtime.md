@@ -1,0 +1,3 @@
+One missing key feature in [[swiftstat]] is the runtime. Users should be able to compile and execute a swiftstat network and use it to answer queries from a host program. [[opencl]] provides a runtime API that normally takes in SPIR-V/openCL C, but the spec allows for platform-specific binary formats. The [[altera-opencl]] , for example, uses the `.aocx` FPGA bitstream format to execute on an FPGA.
+
+Could we somehow use this flow for swiftstat? The output of swiftstat is Verilog, which we could easily pass to [[quartus]] (or FOSS alternative) to generate a bitstream.

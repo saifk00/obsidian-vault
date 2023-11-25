@@ -12,4 +12,5 @@ See [[copula]] for a general discussion of copulas in linguistics. In Japanese, 
 	- Example: "静かな人"
 - で: adverbially
 	- This is the [[te-form]] 
+- ならば: [[conditional-conjunctions|condtionally]]
 # References
