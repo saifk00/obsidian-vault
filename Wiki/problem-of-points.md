@@ -1,4 +1,3 @@
-#statistics 
 The problem of points is a classic [[probability-theory]] problem. Two players, R and S, play a game where each player has an equal chance of winning each round. Each contributes equally to a prize pot, and the first player to get to N wins takes the pot. Suppose they are interrupted at round K - how should they distribute the pot?
 
 This problem was solved in 1654 by [[fermat]] and [[pascal]] (who had correspondence around this time). In so doing, they laid out the principles that led to modern [[probability-theory]], including [[expected-value]].

@@ -1,4 +1,3 @@
-#statistics 
 - [ ] refine this note
 # Overview
 A [[bayesian-probability|Bayesian]] Network is one type of [[probabilistic-graphical-model]]. It represents a situation as a [[directed-acyclic-graph]] where nodes are [[random-variables]] and edges represent [[statistical-conditional-independence| conditional dependencies]].

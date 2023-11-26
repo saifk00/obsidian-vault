@@ -1,4 +1,3 @@
-#siril 
 The final step in light preprocessing in Siril is stacking. This increases the SNR by sampling the same random process many times.
 
 # Stacking Methods

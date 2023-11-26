@@ -1,5 +1,3 @@
-#siril 
-
 # Conversion
 First, we must convert the raw images into [[FITS]] data. Debayering at this stage should *not* be done for bias, dark, and flat images (or lights that will be preprocessed).
 

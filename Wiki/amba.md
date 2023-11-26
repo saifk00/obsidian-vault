@@ -1,3 +1,5 @@
+# Advanced Microcontroller Bus Architecture
+
 Introduced by ARM in 1996, the Advanced Microcontroller Bus Architecture (AMBA) is a set of specifications for interconnect protocols between functional blocks in a digital hardware system. Altera has a competing standard called [[avalon]] which is proprietary.
 
 # History

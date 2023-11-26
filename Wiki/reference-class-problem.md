@@ -1,4 +1,3 @@
-#statistics #philosophy 
 # Overview
 Many arguments in statistics take the following syllogistic form:
 1. X proportion of F are G

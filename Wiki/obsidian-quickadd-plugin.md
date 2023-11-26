@@ -1,4 +1,3 @@
-#obsidian
 Its quite obtuse, but the QuickAdd plugin has the concept of **choices**. A **choice** is what actually shows up in the command palette; while the macro/multi/template/capture is what gets run by that choice.
 
 # Macros

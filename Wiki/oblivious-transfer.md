@@ -1,2 +1,1 @@
-#cryptography 
 Oblivious transfer is a way for a receiver to query a 'database' of values from a sender, without the sender learning (1) what the query was, and (2) what the result of the query was.

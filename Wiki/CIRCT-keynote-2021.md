@@ -1,4 +1,3 @@
-#presentation #compilers #digital-hardware 
 https://llvm.org/devmtg/2021-11/slides/2021-CIRCT-LiftingHardwareDevOutOfThe20thCentury.pdf
 # Overview
 An introduction to the motivation behind the [[CIRCT]] project.

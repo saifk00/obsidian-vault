@@ -1,4 +1,3 @@
-#cryptography 
 Yao's garbled circuits allow us to evaluate arbitrary boolean circuits without revealing each parties input to one another. It works in the 2-party case with arbitrary bit lengths for each parties input. In the 2-party case, A and B have distinct roles. A garbles the circuit and serves as a sender in an [[oblivious-transfer]] protocol, while B evaluates the circuit using A to get labels.
 
 [Protocol](https://www.wikiwand.com/en/Garbled_circuit#Garbled_circuit_protocol)

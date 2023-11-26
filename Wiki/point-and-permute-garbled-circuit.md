@@ -1,5 +1,3 @@
-#cryptography
-
 Point-and-permute is a technique used in [[garbled-circuits]] to save Evan (the evaluator) from trying to decrypt all 4 ciphertexts of a garbled circuit. Recall that, normally, he must do this because he has no idea which input labels were used to encrypt each of the output labels in a garbled circuit (he receives only the output column).
 
 1. Each wire $w$ is associated with two *permute* bits $p^0$, $p^1$

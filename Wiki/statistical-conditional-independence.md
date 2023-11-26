@@ -1,4 +1,3 @@
-#statistics 
 Intuitively, two events $\alpha$ and $\beta$ are conditionally independent given $\gamma$ if $\gamma$ gives us all the information relevant in $\beta$ that we need to know the probability of $\alpha$ (and vice versa). Consider this example:
 - $\alpha$ - whether student X was admitted to MIT
 - $\beta$ - whether student X was admitted to Stanford

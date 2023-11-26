@@ -1,4 +1,3 @@
-#statistics #philosophy 
 Frequentism is one possible interpretation of probability in the [[philosophy-of-probability]]. Loosely, it identifies probability with 'relative frequency' of occurrences.
 
 # Actual Frequentism

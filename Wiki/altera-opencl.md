@@ -1,3 +1,5 @@
+# Altera OpenCL Platform
+
 Initially released in 2012, Altera had an implementation of OpenCL for its FPGAs known as the *Altera SDK for OpenCL* or **AOCL**. As an [[opencl|OpenCL 1.0]]-compliant implementation, it provided a runtime and a compiler. The compiler, called the **Altera Offline Compiler** `aoc` (yes, offline - not OpenCL - check the original 2014 getting started guide for proof).
 
 It also provided a utility called `aocl` to do a bunch of miscellaneous tasks

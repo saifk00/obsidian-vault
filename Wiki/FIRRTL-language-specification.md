@@ -1,4 +1,3 @@
-#paper #compilers #digital-hardware
 https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-9.pdf
 # Overview
 FIRRTL was developed to provide an IR for [[chisel]] after all metaprogramming was removed.

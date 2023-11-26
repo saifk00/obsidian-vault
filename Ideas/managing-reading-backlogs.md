@@ -7,7 +7,7 @@ Write up a little philosophical treatise on how to manage several reading backlo
 - spaced repetition - maybe having to search for existing notes is valuable - recalling keywords and putting them into search might be part of learning
 - Different types of tasks you need to do - the actual reading, writing, refinement, connection - create an N step model of how knowledge gets refined, maybe do some reading on this
 - Meta: tasks like the one in this document are extra valuable because they increase the value of future tasks...
-- [ ] [Sophisticated Procrastination](https://www.youtube.com/watch?v=baKCC2uTbRc)  📅 2023-11-26 
+- [x] [Sophisticated Procrastination](https://www.youtube.com/watch?v=baKCC2uTbRc) 📅 2023-11-26 ✅ 2023-11-26
 	- "Makes you *feel* productive"
 		- So that means we need some way to actually *know* if we're productive - how?
 	- I am *definitely* doing better work now that I use Obsidian - which is different from his experience

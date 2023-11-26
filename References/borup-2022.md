@@ -1,4 +1,4 @@
-#paper 
+
 https://infoscience.epfl.ch/record/292189?ln=en
 
 Title: A Dynamically Scheduled HLS Flow in MLIR

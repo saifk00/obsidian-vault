@@ -1,4 +1,3 @@
-#siril 
 [Doc](https://siril.readthedocs.io/en/stable/preprocessing/registration.html)
 Registration involves identifying features in a series of light frames and then applying transformations to get them to match. Siril offers several registration methods, each of which uses different feature detection algorithms and transformation calculations. There are two broad categories of transformations: *pixel*-level transformations are just a pixel offset that can be saved for each image. *sub-pixel*-level transformations are more accurate, but require intermediate data.
 

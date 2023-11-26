@@ -4,7 +4,7 @@
 		{"id":"8d7e4c77de189028","type":"text","text":"optimizations","x":-420,"y":677,"width":540,"height":50,"color":"4"},
 		{"id":"7fe4cf053af4ab08","type":"file","file":"Wiki/oblivious-transfer.md","x":160,"y":220,"width":400,"height":400},
 		{"id":"159a37a9aa2146e1","type":"file","file":"Wiki/secure-multi-party-computation.md","x":-1400,"y":-280,"width":840,"height":360},
-		{"id":"5e4641e5c9748304","type":"file","file":"Wiki/multi-party-computation-compiler-variable-instruction-set-architecture.md","x":-960,"y":220,"width":400,"height":620},
+		{"id":"5e4641e5c9748304","type":"file","file":"References/multi-party-computation-compiler-variable-instruction-set-architecture.md","x":-960,"y":220,"width":400,"height":620},
 		{"id":"84437dc5eacdd6bd","type":"file","file":"Wiki/garbled-circuits.md","x":-280,"y":220,"width":400,"height":400},
 		{"id":"eeb58ccf188e90f6","type":"file","file":"Wiki/point-and-permute-garbled-circuit.md","x":-480,"y":840,"width":400,"height":400},
 		{"id":"9a57a3b172639b00","x":-40,"y":840,"width":400,"height":400,"type":"file","file":"Wiki/free-xor.md"}

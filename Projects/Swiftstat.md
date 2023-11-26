@@ -1,7 +1,6 @@
 # Theory
 - The core of swiftstat is the theory of [[probabilistic-graphical-model]]s
 	- Currently, it only implements [[bayesian-networks]]
-- 
 # Principles
 - **Example Models**: We are primarily interested in models that are in some sense 'time-sensitive'. The goal here is to *accelerate* inference. For example, things like medical diagnosis, while important, are probably not as time sensitive as speech signal processing. It is already widely accepted that medical diagnosis can take a few weeks.
 	- Good candidates

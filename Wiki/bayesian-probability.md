@@ -1,5 +1,3 @@
-#statistics #philosophy
-
 Bayesian probability, also known as **subjectivism**, is one possible interpretation of probability in the [[philosophy-of-probability]]. Also called evidential probability, it is closely tied to [[epistemic-probability]] in that probability values under this theory can be assign to any proposition whatsoever. The value is interpreted as a quantification of the degree of plausibility.
 
 # Methodology

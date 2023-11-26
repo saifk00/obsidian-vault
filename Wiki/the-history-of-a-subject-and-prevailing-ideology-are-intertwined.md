@@ -1,4 +1,3 @@
-#philosophy 
 As Marx said:
 > The materialist doctrine concerning the changing of circumstances and upbringing forgets that circumstances are changed by men and that **it is essential to educate the educator himself**. This doctrine must, therefore, divide society into two parts, one of which is superior to society.
 

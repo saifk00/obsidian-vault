@@ -1,4 +1,3 @@
-#statistics 
 # Naive Bayes Models
 Naive Bayes models are a class of bayesian networks where we assume that some set of observed features ${X_0, X_1, ... X_n}$ are aspects of some class $C$, and that they are all conditionally independent given the class $C$. For example, in the classic [[student-bayesian-network]], the class is the student's intelligence $I$ and the observed variables are the grade and SAT score.
 

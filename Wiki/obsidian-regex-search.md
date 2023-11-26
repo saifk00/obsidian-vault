@@ -1,0 +1,1 @@
+[[obsidian]] has [[regular-expression]] support when searching through all files. You just need to use `/` delimiters. e.g. to search for the *word* `test` I write `/[^\w]test[^\w]/`. See the [docs](https://help.obsidian.md/Plugins/Search#Use+regular+expressions) for more info.

@@ -1,5 +1,3 @@
-#cryptography 
-
 In [[garbled-circuits]], the free XOR technique allows us to evaluate XOR gates for free (i.e. no decryption necessary). Normally, output labels $W^0$ and $W^1$ are random. Instead, in the free XOR technique we do the following:
 - Generate a random 'label mask' $R \xleftarrow{} \{0,1\}^L$  where $L$ is the length of the labels. This is one value for the whole circuit
 - For each gate, pick its $W^0$ label at random, and set its $W^1=W^0 \oplus R$

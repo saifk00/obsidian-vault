@@ -1,4 +1,3 @@
-#paper #cryptography 
 http://www.pinkas.net/PAPERS/MNPS.pdf
 # Overview
 The authors present a practical system to achieve [[secure-multi-party-computation]] in the two-party case. The compile a high level description of a function (in a language called **SFDL** - secure function definition language) into a boolean circuit (described in a language called **SHDL** - secure hardware definition language) which can then be evaluated [[garbled-circuits]].

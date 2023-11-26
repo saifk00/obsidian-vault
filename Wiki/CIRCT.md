@@ -1,4 +1,3 @@
-#compilers #digital-hardware 
 https://circt.llvm.org/
 https://circt.llvm.org/docs/Charter/
 

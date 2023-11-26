@@ -1,6 +1,5 @@
-#algorithms #compilers #llvm
 # Background
-While working at Intel, I came across an issue where we wanted to optimize the following pattern:
+I came across an issue where we wanted to optimize the following pattern in LLVM IR:
 ```llvm
 %0 = select i1 %cond, <Ty> %a, <Ty> undef
 %1 = select i1 %cond, <Ty> %0, <Ty> %c

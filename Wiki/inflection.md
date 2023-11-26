@@ -1,5 +1,3 @@
-#linguistics 
-
 Inflection is when a word is modified to express some grammatical category, such as
 - tense
 - case

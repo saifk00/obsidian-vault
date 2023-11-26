@@ -1,5 +1,3 @@
-#siril #astrophotography
-
 In astrophotography, we must preprocess *light* frames which contain our actual image data using three types of calibration frames: bias, dark, and flat. The model used by [[siril]] is as follows (note that *noise* is not a consideration - that goes away by *stacking lights*):
 
 $$
