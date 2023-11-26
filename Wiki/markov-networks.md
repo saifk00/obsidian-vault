@@ -18,3 +18,20 @@ $$
 (\vec{X} \perp \vec{Y} \vert \vec{Z}) \iff P(\mathcal{X}) = \phi_1(\vec{X}, \vec{Z})\phi_2(\vec{Y},\vec{Z})
 $$
 This should make intuitive sense - the factorization on the right implies that X and Z directly interact and Y and Z directly interact, with no direct interaction between X and Y. Thus, knowing Z, should tell us everything we need to know about either of the other variables.
+
+# Parameterization
+We need to determine a set of parameters for a given markov network that is able to specify any possible distribution that it induces. The obvious solution - one parameter per entry in each factor - does not work: take the trivial case of a complete graph: the number of parameters required to specify any distribution would be $2^n-1$ while the $n\choose{2}$  factors each having 4 parameters can only provide a total of $4{n\choose2}$  parameters which is not enough.
+
+## Factor Product
+The product of two factors $\phi_1(X, Y)$ and $\phi_2(Y, Z)$ is a factor $\psi(X, Y, Z) = \phi_1(X, Y) \times \phi_2(Y, Z)$. 
+
+## Gibbs Distribution
+A Gibbs distribution is parameterized by a set of factors over arbitrary subsets of variables in the network:
+$$\begin{align}
+P_\Phi(X_1, ..., X_n) &= \frac{1}{Z}P'_\Phi(X_1, ..., X_n)\\
+P'_\Phi &= \phi_1(D_1)\phi_2(D_2),...,\phi_m(D_m)
+\end{align}$$
+each set $D_i$ introduces direct interactions between its member variables.
+
+## Markov Factorization
+Analogous to the factorization rule for [[bayesian-networks]]

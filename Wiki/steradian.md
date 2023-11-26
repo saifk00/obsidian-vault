@@ -1,0 +1,1 @@
+Steradians, or square radians, is the 3D analogy of an angle in radians. In 2D, multiplying an angle by the radius gives us the length of an arc on the circle. In 3D, multiplying the *steradian* by the radius *squared* gives us the area of a spherical cap on the surface of a sphere.

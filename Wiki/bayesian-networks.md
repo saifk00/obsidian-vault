@@ -48,16 +48,8 @@ $$
 \mathcal{I}_l(\mathcal{G}) = \{(X_i\perp\text{NonDescendants}|\text{Pa}_{X_i}^{\mathcal{G}}) \vert X_i \in \mathcal{G}\}
 $$
 # Factorization and I-Maps
-## I-Maps
-A graph $\mathcal{G}$ is an I-Map of a probability distribution $P$ if the independencies that it encodes is a subset of the independence relationships that hold in the distribution. We often denote the set of independencies that a graph or distribution encodes as $\mathcal{I}$
-
-A bayesian network may be the I-Map of many probability distributions, and a probability distribution may have multiple I-maps (which vary in what subset of independencies they encode).
-## Factorization
-A probability distribution $P$ "factorizes" over a graph $\mathcal{G}$ if it can be expressed as the product
-$$
-	P(X_1,...,X_n) = \Pi_{i}P(X_i \vert \text{Pa}_{X_i}^{\mathcal{G}})
-$$
-That is, we could compute the joint probability of the nodes for some assignment by multiplying each of the CPD entries.
+[[bayesian-network-i-maps]]
+[[bayesian-network-factorization]]
 
 # d-Separation
 We know that for a distribution $P$ and a bayesian network $\mathcal{G}$ that factorizes over it, $G$ is an I-map of $P$ and thus $\mathcal{I}(\mathcal{G}) \subseteq \mathcal{I}(P)$. We know the left hand side from [[#^2cea7f| Independencies in Bayesian Networks]], but there are other independencies that we know about $P$ if it factorizes over $\mathcal{G}$.

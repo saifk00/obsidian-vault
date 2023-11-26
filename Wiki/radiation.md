@@ -1,0 +1,1 @@
+- [ ] EM *and* gravitational!? https://www.wikiwand.com/en/Radiant_energy

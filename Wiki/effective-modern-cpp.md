@@ -7,8 +7,6 @@ There are three sets of rules for type deduction as of C++11. C++14 expanded whe
 - Function templates: [[cpp-template-type-deduction]]
 - `auto`: [[auto-type-deduction]]
 - `decltype`: [[decltype-type-deduction]]
-
-
 # Auto
 
 
