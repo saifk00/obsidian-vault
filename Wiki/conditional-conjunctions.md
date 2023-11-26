@@ -1,5 +1,5 @@
 #japanese #grammar-point 
-#todo: learn more about なら
+- [ ] learn more about なら
 
 [[japanese-grammar-points#^a678c0|All Grammar]]
 ば: [[makino-2023]]@81

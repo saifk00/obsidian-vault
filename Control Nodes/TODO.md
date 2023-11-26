@@ -1,15 +1,3 @@
-https://halide-lang.org/
-https://www.khronos.org/openvx/
-
-# TODO-tags
-```query
-#todo
-```
-# Needs Refinement
-```dataview
-LIST FROM #needs-refinement
-```
-
 # Nonexistent files
 ```dataview
 TABLE without id out AS "Uncreated files", file.link as "Origin"

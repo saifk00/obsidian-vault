@@ -1,1 +1,1 @@
-#todo read about halide
+- [ ] read about halide https://halide-lang.org/

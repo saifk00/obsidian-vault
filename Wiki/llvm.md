@@ -7,4 +7,4 @@ In 2006, [[clang]] was born as an LLVM frontend.
 
 The 2012 ACM Software System was awarded to lattner and co. for developing LLVM. #conjecture this is around the time that LLVM became the core compiler infrastructure for the industry
 
-#todo what industry trends made llvm *the* standard for compiler infra?
+- [ ] what industry trends made llvm *the* standard for compiler infra?

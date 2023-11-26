@@ -3,6 +3,10 @@
 <% tp.file.cursor(1) %>
 # Journal
 
+# Tasks
+```tasks
+```
+
 # Notes created today
 ```dataview
 List FROM ""

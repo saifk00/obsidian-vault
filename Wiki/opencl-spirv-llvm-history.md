@@ -11,7 +11,9 @@ To reduce this duplication of efforts, a Khronos working group with contributors
 > The goal of SPIR is to provide a portable interchange format for partly compiled OpenCL C programs. The format is vendor neutral, not C source code, and designed to be efficiently loaded by an OpenCL implementation. \[...\] It is designed to be useful as a target format for compilers of programming languages **other than OpenCL C**. This is a secondary goal of SPIR
 >  
 
-That is, SPIR was initially just meant to allow OpenCL frontends to be developed independently from backends. #todo was SPIR ever actually part of the OpenCL spec? I think at this point it was just there to split the efforts
+That is, SPIR was initially just meant to allow OpenCL frontends to be developed independently from backends.
+
+- [ ] was SPIR ever actually part of the OpenCL spec? I think at this point it was just there to split the efforts
 
 ### OpenCL 2.1 (2015): SPIR-V
 At the same time, the Khronos group was developing [[vulkan]] to supercede [[opengl]]. Again, to avoid reduplication of effort, they first released [[SPIR-V]] to act as the common IR of [[vulkan]] and [[opencl]] - note that Vulkan would not be released until 2016. This offloaded the work of writing a front-end compiler from the drivers meaning that vendors like Nvidia and AMD had to do less work. SPIR-V was no longer based on LLVM IR since the latter was never meant to express heavy parallelism, thus the [[spirv-llvm-translator]] was developed.
@@ -27,3 +29,5 @@ On 2017-05-16 the OpenCL 2.2 specification was released. It introduced the **Ope
 
 ### OpenCL 3.0 (2020): C++ for OpenCL
 Yes - confusing name. C++ for OpenCL is a community-led effort to enable writing OpenCL kernels in C++ *without restriction* (OpenCL C++ is a *subset* of C++). The OpenCL C++ kernel language is deprecated as of this release.
+
+- [ ] https://www.khronos.org/openvx/

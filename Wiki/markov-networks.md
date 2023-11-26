@@ -1,5 +1,5 @@
 Markov networks are one type of [[probabilistic-graphical-model]].
-#todo continue reading about markov networks
+- [ ] continue reading about markov networks
 # Motivation
 In the [[pgm-misconception-example]], we find that we cannot capture both the independence properties we intuit with any [[bayesian-networks]]. Intuitively, this is because the relation between the variables is actually *symmetrical* whereas bayesian networks implicitly assume there is directionality to the influence. This notion of symmetry is the core of markov networks.
 

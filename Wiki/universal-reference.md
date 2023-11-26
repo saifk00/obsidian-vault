@@ -1,0 +1,2 @@
+- Universal reference parameters are declared like [[rvalue-reference]]s - `T&&`
+- They are not the same thing as lvalues/rvalues

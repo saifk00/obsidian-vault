@@ -1,0 +1,1 @@
+The Tagged Image File Format represents raster images on various devices. It supports lossless and lossy compression schemes, multiple color spaces, and palette colors. It supports up to 32 bits per pixel, and offers quite a number of metadata fields.

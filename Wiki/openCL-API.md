@@ -43,7 +43,9 @@ All four address spaces belong to a single, shared *generic address space* to al
 - A pointer to global,local,private can implicitly convert to a GAS pointer
 - A GAS pointer **cannot** implicitly convert to global,local,private
 
-Addresses pointing into global memory are *not* consistent across devices and kernel instances. It is more like a pool of objects than an actual address space. #todo There exists [[opencl-shared-virtual-memory]] which allows a proper global address space.
+Addresses pointing into global memory are *not* consistent across devices and kernel instances. It is more like a pool of objects than an actual address space. 
+
+- [ ] There exists [[opencl-shared-virtual-memory]] which allows a proper global address space.
 
 Global memory holds objects of type `cl_mem` which is one of the following:
 1. Buffer - a contiguous array with random access
