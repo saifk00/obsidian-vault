@@ -20,7 +20,7 @@ $$
 This should make intuitive sense - the factorization on the right implies that X and Z directly interact and Y and Z directly interact, with no direct interaction between X and Y. Thus, knowing Z, should tell us everything we need to know about either of the other variables.
 
 # Parameterization
-We need to determine a set of parameters for a given markov network that is able to specify any possible distribution that it induces. The obvious solution - one parameter per entry in each factor - does not work: take the trivial case of a complete graph: the number of parameters required to specify any distribution would be $2^n-1$ while the $n\choose{2}$  factors each having 4 parameters can only provide a total of $4{n\choose2}$  parameters which is not enough.
+We need to determine a set of parameters for a given markov network that is able to specify any possible distribution that it induces. The obvious solution - one parameter per entry in each factor - **does not work**: take the trivial case of a complete graph: the number of parameters required to specify any distribution would be $2^n-1$ while the $n\choose{2}$  factors each having 4 parameters can only provide a total of $4{n\choose2}$  parameters which is not enough.
 
 ## Factor Product
 The product of two factors $\phi_1(X, Y)$ and $\phi_2(Y, Z)$ is a factor $\psi(X, Y, Z) = \phi_1(X, Y) \times \phi_2(Y, Z)$. 
@@ -34,4 +34,8 @@ P'_\Phi &= \phi_1(D_1)\phi_2(D_2),...,\phi_m(D_m)
 each set $D_i$ introduces direct interactions between its member variables.
 
 ## Markov Factorization
-Analogous to the factorization rule for [[bayesian-networks]]
+Analogous to [[bayesian-network-factorization]], a distribution $P_\Phi$ factorizes over a Markov network $\mathcal{H}$ if each set $D_k$ is a [[complete-graph|complete]] subgraph of $\mathcal{H}$ - thus the factors associated with these sets are also called *clique potentials*. Without losing generality, we can pick $D_k$ to be the [[graph-maximal-cliques]].
+
+## Factor Reduction
+When we get evidence, instead of renormalizing the whole distribution after removing inconsistent entries, we can instead just use *reduced* factors. For a factor $\phi(Y)$ and evidence $U=u$ where $U \subseteq Y$, the factor is reduced to $\phi[U=u]$ (or just $\phi[u]$ ) to become a new factor over the scope $Y - U$.
+- [ ] Understand this better

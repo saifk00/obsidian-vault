@@ -5,6 +5,7 @@ The plan would be as follows: set up obsidian and a git hook on my [[homelab]] t
 - Select only folders that I want (Wiki, Ideas, Projects, etc.)
 - Run a simple script to replace private strings with some format
 	- one idea: `{p! <text that is private> } -> [redacted]`
+	- another idea: replace links to the `References` folder with an italicized title, which you can grab via the `properties:title` element.
 - Copy the results to the `notes` directory of my portfolio site repo
 - Commit and push to github
 - Set up netlify to point the `/my-notes/` (or something) to these static files
