@@ -30,3 +30,5 @@ Write up a little philosophical treatise on how to manage several reading backlo
 	- but this productivity-oriented mindset for the time outside of work is somehow perverse
 	- also if we are interested in X, its like a productivity boost, so maybe if oyu have N projects each has some goals and you should just work on whichever project interests you at a given time
 		- This means you wont make even progress on all of them. maybe thats ok?
+- one approach: just learn things as they become relevant
+	- you will always be "catching up" - rarely be able to jump into a new topic

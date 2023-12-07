@@ -12,4 +12,5 @@
 # TODOs
 - [ ] I think I misunderstood [[gibbs-sampling]] in our original implementation. Fix our implementation for accuracy
 	1. We need to be sampling from a node conditioned on its *markov blanket*, not just the parents. Children should pass their values up to the parent
-- [ ] Rethink the `Sample` class - its just an alias around a `UInt` but adds some complexity since it seems like some users need to use `.sample` and some dont.
+- [x] Rethink the `Sample` class - its just an alias around a `UInt` but adds some complexity since it seems like some users need to use `.sample` and some dont. ✅ 2023-12-06
+	- Changed it to essentially be an alias for chisel's `UInt` type; the `apply` method can just return the chisel datatype

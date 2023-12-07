@@ -1,4 +1,4 @@
-Usually, `decltype` just gives you the declared type of a variable without deduction. It is typically used for declaring function templates whose return type depends on multiple parameter types:
+Usually, `decltype` just gives you the declared type of a variable without deduction. This is different from [[auto-type-deduction]] because `auto` will throw away reference-ness. It is typically used for declaring function templates whose return type depends on multiple parameter types:
 ```c++
 template<typename Container, typename Index>
 auto authAndAccess(Container& c, Index i) -> decltype(c[i])

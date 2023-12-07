@@ -1,0 +1,3 @@
+Because [[fpga-substrate-concerns-necessitate-rtl-complexity]], any [[high-level-synthesis]] tool which ultimately produces some verilog will also need some auxiliary information to a logic synthesis tool for it to infer things like memories, interfaces, etc.
+
+For example, the [[intel-oneapi-fpga-compiler]] uses `xml`-based [handoff files](https://www.intel.com/content/www/us/en/docs/programmable/683045/18-1/creating-the-board-spec-xml-file.html) that describe interfaces to the HDL synthesizer.

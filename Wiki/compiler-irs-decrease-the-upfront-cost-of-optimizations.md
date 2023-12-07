@@ -1,0 +1,3 @@
+An optimization is only worth implementing if the upfront cost of developing it can be amortized over all the times its used. If our compiler was monolithic and only used by code generated for such and such target, the time and effort required to implement an optimization is increased, and the overall benefit is reduced. By having a very simple IR and pass infrastructure, the cost of writing an optimization is drastically reduced, and the value it produces is increased.
+
+This is one reason for the success of [[llvm]] in the software world, and hopefully [[CIRCT]] in the hardware world.
