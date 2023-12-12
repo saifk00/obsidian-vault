@@ -1,0 +1,1 @@
+This is a bit of OpenGL history, akin to [[opencl-spirv-llvm-history]] but for graphics.

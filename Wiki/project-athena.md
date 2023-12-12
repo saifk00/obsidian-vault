@@ -1,0 +1,3 @@
+Athena was a project at MIT to provide a distributed computing system to students/researchers where there was one mainframe and many 'thin client' machines that users would operate. It led to the birth of the [[x-window-system]] which is still in wide use today
+- Began development in 1982, right around the time that the 80286 was released
+- Didnt want to rely on one vendor for the client machines; this is one factor that led to the client-server architecture of X (the client could be any kind of machine so long as there was an X implementation on it)
