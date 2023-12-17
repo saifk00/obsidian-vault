@@ -7,4 +7,6 @@
 [[vannevar-bush]]: Science, the Endless Frontier
 [[douglas-engelbart]]: Bootstrapping: Douglas Engelbart, Coevolution, and the Origins of Personal Computing
 [[history-ibm-personal-computer]]: [[ceruzzi-2021]]
+- **The Cold War and American Science**
+	- Ref'd in [[turner-2006]] - how WWII began a shift in the way research was conducted in American institutions
 

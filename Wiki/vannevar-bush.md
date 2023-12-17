@@ -1,5 +1,7 @@
 Vice president of MIT in 1932, founder of the company that became [[raytheon]].
 
+In 1940, he convinced [[franklin-roosevelt]] to create the National Defence Research Committee, which would eventually become [[osrd]], to further coordination between military and civilian researchers. Interestingly, this is before the US even entered the war. 
+
 # As We May Think
 > Consider a future device …  in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory
 > - Bush, **1945**
