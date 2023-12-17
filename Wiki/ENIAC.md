@@ -1,12 +1,12 @@
 The Electronic Numerical Integrator and Computer
 
-Ceremonially switched on by [[gladeon-barnes]] of the Ordnance department who owned the machine (!) [[ceruzzi-2021]]@20
+Ceremonially switched on by [[gladeon-barnes]] of the Ordnance department who owned the machine (!) [[ceruzzi-2003]]@20
 
 
 # Facts
 Its programming manual was written by [[adele-goldstine]]
 
-It was permanently installed in Aberdeen, Maryland at the Ballistics Research Laboratory [[ceruzzi-2021]]
+It was permanently installed in Aberdeen, Maryland at the Ballistics Research Laboratory [[ceruzzi-2003]]
 
 # The New York Times Article
 On Feb 15, 1946, the New York Times published a front-page story "Electronic Computer Flashes Answers, May Speed Engineering" about the unveiling of the ENIAC

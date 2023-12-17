@@ -11,7 +11,7 @@ Section 4 of [[von-neumann]]'s report is quite potent. In it, he abstracts the f
 
 In fact, this was written *before* the invention of the transistor! At the time, it was vacuum tubes, wheels, telegraph relays, etc.
 
-In fact, in keeping with the [[cybernetic|cybernetics]] disposition of [[cold-war-military-research-projects]], [[von-neumann]] introduces computing elements as an analogue of the neuron.
+In fact, in keeping with the [[cybernetics|cybernetic]] disposition of [[cold-war-military-research-projects]], [[von-neumann]] introduces computing elements as an analogue of the neuron.
 
 # Key Points
 In the article [[myth-of-the-harvard-architecture]], the authors identify ten aspects of the so-called "Von Neumann Architecture," meaning the computing machine described in [[von-neumann]]'s draft for the design of the [[edvac]] (the [[ENIAC]]'s successor)
