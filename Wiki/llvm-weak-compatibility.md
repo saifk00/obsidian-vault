@@ -1,0 +1,1 @@
+One key feature of the [[llvm]] ecosystem is the weak compatibility guarantees - the IR format may change and break libraries compiled with older LLVM. Newer releases can ignore features from older releases (but must still compile them correctly).

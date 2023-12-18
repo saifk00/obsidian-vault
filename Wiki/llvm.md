@@ -7,6 +7,6 @@ In 2006, [[clang]] was born as an LLVM frontend.
 
 The 2012 ACM Software System was awarded to lattner and co. for developing LLVM. #conjecture this is around the time that LLVM became the core compiler infrastructure for the industry
 
-
 # Details
 - [[llvm-pass-scheduling-and-registration]]
+- [[llvm-weak-compatibility]]

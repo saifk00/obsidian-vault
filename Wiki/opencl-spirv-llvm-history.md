@@ -15,6 +15,8 @@ That is, SPIR was initially just meant to allow OpenCL frontends to be developed
 
 - [ ] was SPIR ever actually part of the OpenCL spec? I think at this point it was just there to split the efforts
 
+The natural question arises - if LLVM was the de-facto IR for OpenCL vendors, why did Khronos group create a whole new IL (SPIR) instead of just adopting LLVM? The answer is that LLVM IR is *not standardized or backwards compatible* ([[llvm-weak-compatibility]]) something that is unacceptable for drivers! See https://www.neilhenning.dev/wp-content/uploads/2015/04/WhySPIR-V-Notes.pdf for details.
+
 ### OpenCL 2.1 (2015): SPIR-V
 At the same time, the Khronos group was developing [[vulkan]] to supercede [[opengl]]. Again, to avoid reduplication of effort, they first released [[SPIR-V]] to act as the common IR of [[vulkan]] and [[opencl]] - note that Vulkan would not be released until 2016. This offloaded the work of writing a front-end compiler from the drivers meaning that vendors like Nvidia and AMD had to do less work. SPIR-V was no longer based on LLVM IR since the latter was never meant to express heavy parallelism, thus the [[spirv-llvm-translator]] was developed.
 
