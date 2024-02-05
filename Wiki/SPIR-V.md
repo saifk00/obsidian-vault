@@ -4,4 +4,3 @@ https://www.lei.chat/posts/compilers-and-irs-llvm-ir-spirv-and-mlir/
 	- Also SPIR-V supports [[spir-v-extensions]] in a standard, manageable way
 - "hardware drivers update much less frequently than software toolchains" - this is why stability and compatibility are key features of SPIR-V
 - Designed for fast consumption by *device drivers*
-- 

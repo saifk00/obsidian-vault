@@ -1,4 +1,4 @@
-The section "The forgotten openness of the closed world" of [[turner-2006]] aims to answer the following question - what are the origins of the [[computational-metaphor]]. 
+The section "The forgotten openness of the closed world" of [[turner-2006]] aims to answer the following question - what are the origins of the [[computational-metaphor]] that is so dominant today?
 
 - [[vannevar-bush]] founded the [[osrd]] in 1940 with the approval of [[franklin-roosevelt]]
 	- Its goal - fund civilian research with government money
