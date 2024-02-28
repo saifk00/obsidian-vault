@@ -3,7 +3,7 @@ There is a bit of a complicated [[the-history-of-a-subject-and-prevailing-ideolo
 In the original OpenCL 1.0 specification, the only way to program a kernel was using the **OpenCL C** language. This was a subset of C99 with some extensions for expressing parallelism. OpenCL implementations were required by the standard to provide a compiler that produced kernels from OpenCL C.
 
 ### OpenCL 1.2 (2012): SPIR
-#conjecture But building a compiler is hard work. To implement OpenCL as rapidly as possible, vendors (Intel, AMD, Nvidia) decided to base their OpenCL C compilers on [[llvm]]. By 2012 [[llvm|LLVM IR]] had become [***"the de factor OpenCL IR"***](https://www.phoronix.com/news/MTE4MzM). Interestingly, this is the same year that LLVM won the ACM software system award - LLVM was booming in the industry.
+But building a compiler is hard work. To implement OpenCL as rapidly as possible, vendors (Intel, AMD, Nvidia) decided to base their OpenCL C compilers on [[llvm]]. By 2012 [[llvm|LLVM IR]] had become [***"the de factor OpenCL IR"***](https://www.phoronix.com/news/MTE4MzM). Interestingly, this is the same year that LLVM won the ACM software system award.
 
 To reduce this duplication of efforts, a Khronos working group with contributors from Intel, ARM, AMD, Apple, Nvidia, Qualcomm (and interestingly Codeplay) developed the **Standard Portable IR** or SPIR 1.0 specification. Here's a quote from its introduction:
 
@@ -12,8 +12,6 @@ To reduce this duplication of efforts, a Khronos working group with contributors
 >  
 
 That is, SPIR was initially just meant to allow OpenCL frontends to be developed independently from backends.
-
-- [ ] was SPIR ever actually part of the OpenCL spec? I think at this point it was just there to split the efforts
 
 The natural question arises - if LLVM was the de-facto IR for OpenCL vendors, why did Khronos group create a whole new IL (SPIR) instead of just adopting LLVM? The answer is that LLVM IR is *not standardized or backwards compatible* ([[llvm-weak-compatibility]]) something that is unacceptable for drivers! See https://www.neilhenning.dev/wp-content/uploads/2015/04/WhySPIR-V-Notes.pdf for details.
 
