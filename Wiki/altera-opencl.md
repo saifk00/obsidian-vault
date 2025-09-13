@@ -21,7 +21,7 @@ Since RTL synthesis takes hours, compilation occurs *offline*. In 2016, SPIR-V h
 ![[Pasted image 20231125083713.png]]
 
 # Programming the FPGA
-The FPGA must be programmed with a *hardware image* #conjecture this is where the term *device image* in [[oneAPI]] comes from. This image contains kernel code, as well as various logic required by the OpenCL runtime, board interfaces, etc. The `aocl flash` utility can be used to program the `aocx`  onto the FPGA.
+The FPGA must be programmed with a *hardware image* - this is where the term *device image* in [[oneAPI]] comes from. This image contains kernel code, as well as various logic required by the OpenCL runtime, board interfaces, etc. The `aocl flash` utility can be used to program the `aocx`  onto the FPGA.
 
 Each board has some precompiled hardware interfaces that `aoc` 'links' together with the kernel to interface with the openCL runtime. This is mostly provided by the [[board-support-package]] (BSP), but also includes things like PCIe blocks, memory controllers, clock generators, etc.
 

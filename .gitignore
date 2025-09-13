@@ -16,3 +16,9 @@
 
 # Ignore dailies (private)
 Daily/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env

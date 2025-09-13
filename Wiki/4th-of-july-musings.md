@@ -1,0 +1,4 @@
+On 2024-07-04 to 2024-07-08 I went on a road trip with Ahmad and Isemi from San Mateo all the way up to Grants pass Oregon and back down through mount shasta on highway 5. Here are some random musings that haven't yet been passed to other notes.
+
+## Railroad Video
+A hand that seems more used to oil changes than oil painting uses what looks like a toy butter knife to scrape white foam along a clay wall standing no more than a foot high. A miniature railroad runs into an opening in the wall revealing the artistic nature of the hand's pursuit. Having spread the foam uniformly on the wall, the hand hesitates before making a display of insight. It begins to cut away at the foam with quick swipes of the knife, forming triangular plateaus jutting along the edge of the opening. As it works, the foam, whose nature was once abstract, begins to take on the aspect of snow.

@@ -1,0 +1,8 @@
+https://www.marxists.org/reference/archive/hegel/works/fs/ch01.htm
+Hegel's first philosophical work - on the difference between schilling and fichte as developers of Kant
+- "As appearance, philosophy surrenders to the power capable of transforming it into dead opinion and into something that belonged to the past from the very beginning"
+- "The collector stands firm in his neutral attitude towards truth; he preserves his independence whether he accepts opinions, rejects them, or abstains from decision. He can give philosophical systems only one relation to himself: they are opinions – and such incidental things as opinions can do him no harm. He has not learned that there is truth to be had"
+
+https://www.marxists.org/reference/archive/hegel/works/hp/hpintroa.htm
+- "To the impartial man, the Truth has always been a heart-stirring word and one of great import. As to the assertion that the Truth cannot be known, we shall consider it more closely in the history of Philosophy itself where it appears. The only thing to be here remarked is that if this assumption be allowed, as was the case with Tennemann, it is beyond conception why anyone should still trouble about Philosophy, since each opinion asserts falsely in its turn that it has found the truth. This immediately recalls to me the old belief that Truth consists in knowledge, but that an individual only knows the Truth in so far as he reflects and not as he walks and stands: and that the Truth cannot be known in immediate apprehension and perception, whether it be external and sensuous, or whether it be intellectual perception (for every perception as a perception is sensuous) but only through the labour of thought."
+	- In the context of whether a history of philosophy is a dustbin of opinions.

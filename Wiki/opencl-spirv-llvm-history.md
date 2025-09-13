@@ -31,3 +31,10 @@ On 2017-05-16 the OpenCL 2.2 specification was released. It introduced the **Ope
 Yes - confusing name. C++ for OpenCL is a community-led effort to enable writing OpenCL kernels in C++ *without restriction* (OpenCL C++ is a *subset* of C++). The OpenCL C++ kernel language is deprecated as of this release.
 
 - [ ] https://www.khronos.org/openvx/
+
+
+
+- apple objective c first commercial llvm project
+- confirmed jeff 2012 is the inflection point
+- mlir inflection point now
+- 

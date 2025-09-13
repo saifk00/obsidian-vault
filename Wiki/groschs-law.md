@@ -1,0 +1,7 @@
+Source: [[ceruzzi-2003]] Chapter 6
+
+> Minicomputers such as the PDP-8 did not threaten mainframe business; they exploited an untapped market and lived in symbiosis with their large cousins. Some thought it might be possible to do a main- frame’s work with an ensemble of minis, at far lower cost. Mainframe salesmen, citing ‘‘Grosch’s Law,’’ argued that this tempting idea went against a fundamental characteristic of computers that favored large systems. Named for Herb Grosch (figure 6.1), a colorful figure in the computer business, this law stated that a computer system that was twice as big (i.e., that cost you twice as much money) got you not twice but four times as much computing power. If you bought two small computers, giving you two times the power of a single one, you would not do as well as you would if you used the money to buy a single larger computer
+
+The main reason that Ceruzzi cites is that at the time storage was built of magnetic core memory, with cheap bits but expensive control circuitry.
+
+Grosch's law was then overturned by the advent of semiconductor memory (whos control circuitry is also semiconductor?) and network architectures, which enabled linking together small systems.
