@@ -6,6 +6,20 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is an Obsidian knowledge vault containing academic notes, project documentation, and research materials. The repository is structured as a personal knowledge management system with markdown files organized across several key directories.
 
+## Personal Mission Statement
+
+**Core Focus**: Bridge the gap between what we want to compute and what hardware can actually deliver at scale.
+
+I'm drawn to humanity's most computationally intensive challenges - problems where the limiting factor isn't conceptual understanding, but our ability to execute massive parallel computations efficiently. My expertise lies in compiler optimization and parallel execution architectures, transforming complex computational problems into efficient execution across distributed systems.
+
+**Why Compilers Matter**:
+- **Leverage multiplier**: Every optimization gets applied millions of times
+- **Cross-domain impact**: The same scheduling/parallelization techniques work across vastly different fields
+- **Foundational role**: Building the tools that enable breakthroughs in other domains
+- **Future-proofing**: As hardware evolves (quantum, neuromorphic, photonic), someone needs to make it programmable
+
+**Relevant Domains**: Scientific computing, machine learning, graphics, computational biology, financial computing, autonomous systems, climate modeling, cryptography, and robotics - all united by the need for efficient parallel computation at scale.
+
 ## Repository Structure
 
 - **Wiki/**: Core knowledge base with technical articles, philosophy notes, and concept explanations (~180 files)

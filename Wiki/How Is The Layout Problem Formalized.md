@@ -8,7 +8,7 @@ How is the layout problem formalized in the literature? What mathematical framew
 
 ## Initial Investigation
 From [[The layout problem]]:
-- DARPA IDEA (2018, $100M+ project) demonstrated automated flow: netlist → constraint extraction → device generation → placement → routing → GDSII
+- MAGIC (a DARPA IDEA (2018, $100M+ project)) demonstrated automated flow: netlist → constraint extraction → device generation → placement → routing → GDSII
 - Current approaches use traditional optimization methods (simulated annealing historically)
 
 ## Further Questions
